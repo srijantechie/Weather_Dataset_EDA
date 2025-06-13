@@ -44,20 +44,20 @@ The dataset includes historical weather observations such as temperature, humidi
    
 ✅ Improved Data Readiness
 
-Reduced missing data by 100% through imputation and cleaning
+--Reduced missing data by 100% through imputation and cleaning
 
-Standardized date-time formats and weather condition labels across 100,000+ rows
+--Standardized date-time formats and weather condition labels across 100,000+ rows
 
 📈 Insights & Decision Support
 
-Identified 5+ strong correlations (e.g., humidity vs. visibility, wind vs. temperature)
+--Identified 5+ strong correlations (e.g., humidity vs. visibility, wind vs. temperature)
 
-Clustered weather events into 7 major condition types for easier downstream analysis
+--Clustered weather events into 7 major condition types for easier downstream analysis
 
-Enabled improved seasonal analysis that can enhance forecasting models by up to 15–20% accuracy
+--Enabled improved seasonal analysis that can enhance forecasting models by up to 15–20% accuracy
 
 💡 Usability & Reusability
 
-Created a reusable notebook for rapid EDA that can be applied to any similar weather dataset
+--Created a reusable notebook for rapid EDA that can be applied to any similar weather dataset
 
-Reduced EDA time by ~40% for future analysts or modelers working with weather data
+--Reduced EDA time by ~40% for future analysts or modelers working with weather data
