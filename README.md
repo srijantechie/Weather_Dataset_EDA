@@ -1,27 +1,30 @@
 ⛅ Weather Data EDA Project
 1. Project Headline
-   
+
 🔍 Exploratory Data Analysis on Historical Weather Data to Uncover Trends and Patterns
 
 2. Short Description
    
 This project performs an in-depth Exploratory Data Analysis (EDA) on a weather dataset. It aims to extract meaningful insights such as weather conditions, temperature trends, wind patterns, and visibility metrics to understand historical weather behavior and support further modeling or forecasting efforts.
 
+
 3. Tech Stack
 
-Python
+--Python
 
-Pandas for data manipulation
+--Pandas for data manipulation
 
-Jupyter Notebook for interactive analysis
+--Jupyter Notebook for interactive analysis
 
-NumPy for numerical operations
+--NumPy for numerical operations
 
 4. Data Source
+
 The dataset includes historical weather observations such as temperature, humidity, wind speed, visibility, pressure, and general conditions.
 
 
 5. Features / Highlights
+
 🧼 Data Cleaning & Preprocessing: Handling missing values, type conversion
 
 📊 Univariate and Bivariate Analysis: Visual insights into temperature, humidity, pressure, etc.
