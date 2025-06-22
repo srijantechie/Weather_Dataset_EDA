@@ -1,14 +1,14 @@
-⛅ Weather Data EDA Project
-1. Project Headline
+## Weather Data EDA Project
+#1. Project Headline
 
-🔍 Exploratory Data Analysis on Historical Weather Data to Uncover Trends and Patterns
+ Exploratory Data Analysis on Historical Weather Data to Uncover Trends and Patterns
 
-2. Short Description
+#2. Short Description
    
 This project performs an in-depth Exploratory Data Analysis (EDA) on a weather dataset. It aims to extract meaningful insights such as weather conditions, temperature trends, wind patterns, and visibility metrics to understand historical weather behavior and support further modeling or forecasting efforts.
 
 
-3. Tech Stack
+#3. Tech Stack
 
 --Python
 
@@ -18,37 +18,37 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on a weather d
 
 --NumPy for numerical operations
 
-4. Data Source
+#4. Data Source
 
 The dataset includes historical weather observations such as temperature, humidity, wind speed, visibility, pressure, and general conditions.
 
 
-5. Features / Highlights
+#5. Features / Highlights
 
-🧼 Data Cleaning & Preprocessing: Handling missing values, type conversion
+-- Data Cleaning & Preprocessing: Handling missing values, type conversion
 
-📊 Univariate and Bivariate Analysis: Visual insights into temperature, humidity, pressure, etc.
+-- Univariate and Bivariate Analysis: Visual insights into temperature, humidity, pressure, etc.
 
-🌡️ Distribution Analysis of continuous variables like Temp, Dew Point, Wind Speed
+-- Distribution Analysis of continuous variables like Temp, Dew Point, Wind Speed
 
-🌀 Correlation Heatmaps to understand inter-variable relationships
+-- Correlation Heatmaps to understand inter-variable relationships
 
-🌧️ Weather Condition Grouping: Analysis by weather types (e.g., Snow, Rain, Clear)
+-- Weather Condition Grouping: Analysis by weather types (e.g., Snow, Rain, Clear)
 
-📅 Time-based Trend Analysis (e.g., temperature over time)
+-- Time-based Trend Analysis (e.g., temperature over time)
 
-🧠 Insight Generation for model development or business reporting
+-- Insight Generation for model development or business reporting
 
 
-6. 📊 Impact Created
+#6.  Impact Created
    
-✅ Improved Data Readiness
+-- Improved Data Readiness
 
 --Reduced missing data by 100% through imputation and cleaning
 
 --Standardized date-time formats and weather condition labels across 100,000+ rows
 
-📈 Insights & Decision Support
+-- Insights & Decision Support
 
 --Identified 5+ strong correlations (e.g., humidity vs. visibility, wind vs. temperature)
 
